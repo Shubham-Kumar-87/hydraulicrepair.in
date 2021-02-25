@@ -324,7 +324,7 @@ select { border: 1px solid #232323; color: #777; cursor: pointer; display: block
       Fancy
 *************************/
 #header.fancy { background: transparent; position: relative; }
-#header.fancy .topbar { background: #db2d2e; padding: 15px 0px 70px; }
+#header.fancy .topbar { background: #1551a1; padding: 15px 0px 70px; }
 #header.fancy .topbar .topbar-right li a:hover { color: yellow; }
 #header.fancy .menu { position: absolute; width: 100%; top: 60px; }
 #header.fancy .mega-menu > section.menu-list-items { background: #ffffff; padding: 0px 25px; }
