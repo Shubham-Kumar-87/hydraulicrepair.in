@@ -88,9 +88,9 @@ hr { margin: 0; padding: 0px; border-bottom: 1px solid #232323; border-top: 0px;
 hr.gray { margin: 0; padding: 0px; border-bottom: 1px solid #dedede; border-top: 0px; }
 label { font-size: 15px; font-weight: 400; color: #626262; }
 .label { color: #fff !important; font-size: 9px !important; }
-*::-moz-selection { background: #db2d2e; color: #fff; text-shadow: none; }
-::-moz-selection { background: #db2d2e; color: #fff; text-shadow: none; }
-::selection { background: #db2d2e; color: #fff; text-shadow: none; }
+*::-moz-selection { background: #1551a1; color: #fff; text-shadow: none; }
+::-moz-selection { background: #1551a1; color: #fff; text-shadow: none; }
+::selection { background: #1551a1; color: #fff; text-shadow: none; }
 
 /***************************
    Typography
