@@ -31,7 +31,7 @@ div.style-customizer select { width: 100%; padding: 5px; border: 1px solid #b2bf
 .style-customizer .button { width: 100%; font-size: 14px; display: block; padding: 10px 20px; text-align: center; text-transform: uppercase; font-weight: 600; }
 
 /*Color Skins*/
-div.style-customizer .skin-default { background: #db2d2e; }
+div.style-customizer .skin-default { background:#1551a1; }
 div.style-customizer .skin-blue { background: #0f86ff; }
 div.style-customizer .skin-orange { background: #f97307; }
 div.style-customizer .skin-purple { background: #7a1cc8; }
