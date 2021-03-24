@@ -272,7 +272,7 @@ select { border: 1px solid #232323; color: #777; cursor: pointer; display: block
 
 /*mega-menu*/
 .mega-menu .menu-logo { padding: 36px 0px; }
-.mega-menu .menu-logo img { height: 36px; }
+.mega-menu .menu-logo img { height: 56px; }
 .mega-menu .menu-links > li { line-height: 102px; }
 .mega-menu .menu-links > li > a { /*line-height: 102px*/; text-transform: uppercase; font-size: 13px; font-weight: 500; }
 .mega-menu .drop-down-multilevel.right-menu { right: 0px; }
