@@ -183,7 +183,7 @@ Design and Developed by: potenzaglobalsolutions.com
 /*home-4*/
 #header.fancy .menu { position: relative; top: 0px; }
 #header.fancy .topbar { padding: 10px 0px; }
-#header.fancy .mega-menu .menu-mobile-collapse-trigger:before,  #header.fancy .mega-menu .menu-mobile-collapse-trigger:after,  #header.fancy .mega-menu .menu-mobile-collapse-trigger span { background: #db2d2e; }
+#header.fancy .mega-menu .menu-mobile-collapse-trigger:before,  #header.fancy .mega-menu .menu-mobile-collapse-trigger:after,  #header.fancy .mega-menu .menu-mobile-collapse-trigger span { background: #1551a1; }
 #header.fancy .mega-menu > section.menu-list-items { padding: 0px; }
 .quick-links .link a:hover h6 { padding-top: 0px; }
 .custom-block-3 img { margin-top: 30px; } 
