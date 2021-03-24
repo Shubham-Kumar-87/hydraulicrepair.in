@@ -341,7 +341,7 @@ select { border: 1px solid #232323; color: #777; cursor: pointer; display: block
 #header.fancy .search-top .search-btn { color: #323232; }
 #header.fancy .search-top .search-btn:hover { color: #1551a1; }
 #header.fancy .mega-menu .menu-logo { padding: 33px 0px; }
-#header.fancy .mega-menu.desktopTopFixed .menu-logo { padding: 20px 0px; }
+#header.fancy .mega-menu.desktopTopFixed .menu-logo { padding: 19px 0px; }
 
 /*************************
        Light
