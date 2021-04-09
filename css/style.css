@@ -675,7 +675,7 @@ select { border: 1px solid #232323; color: #777; cursor: pointer; display: block
 .car-item .car-list li i { padding-right: 3px; }
 .car-item:hover .car-list { height: 40px; border-bottom: 1px solid #f6f6f6; }
 .car-item .car-image { position: relative; overflow: hidden; }
-.car-item .car-overlay-banner { background: rgba(219, 45, 46, 0.7); position: absolute; top: -100%; height: 100%; width: 100%; opacity: 0; transition: all 0.5s ease-out 0s; -webkit-transition: all 0.5s ease-out 0s; -moz-transition: all 0.5s ease-out 0s; -ms-transition: all 0.5s ease-out 0s; -o-transition: all 0.5s ease-out 0s; }
+.car-item .car-overlay-banner { background: rgba(21 ,81 ,161, 0.7); position: absolute; top: -100%; height: 100%; width: 100%; opacity: 0; transition: all 0.5s ease-out 0s; -webkit-transition: all 0.5s ease-out 0s; -moz-transition: all 0.5s ease-out 0s; -ms-transition: all 0.5s ease-out 0s; -o-transition: all 0.5s ease-out 0s; }
 .car-item .car-overlay-banner ul { left: 0; position: absolute; right: 0; top: 40%; transform: translateY(-50%); -webkit-transform: translateY(-50%); -o-transform: translateY(-50%); -ms-transform: translateY(-50%); -moz-transform: translateY(-50%); z-index: 99; }
 .car-item .car-overlay-banner ul li { display: inline-block; }
 .car-item .car-overlay-banner ul li a { background: transparent; border: 2px solid #ffffff; color: #ffffff; width: 36px; height: 36px; line-height: 36px; text-align: center; display: inline-block; border-radius: 50%; }
@@ -692,7 +692,7 @@ select { border: 1px solid #232323; color: #777; cursor: pointer; display: block
 .car-item-2 .price span { color: #1551a1; font-weight: 700; font-size: 16px; }
 .car-item-2 .price span.old-price { color: #999999; text-decoration: line-through; padding-right: 5px; font-size: 13px; font-weight: 400; }
 .car-item-2 .car-image { position: relative; overflow: hidden; }
-.car-item-2 .car-overlay-banner { background: rgba(219, 45, 46, 0.7); position: absolute; top: -100%; height: 100%; width: 100%; opacity: 0; transition: all 0.5s ease-out 0s; -webkit-transition: all 0.5s ease-out 0s; -moz-transition: all 0.5s ease-out 0s; -ms-transition: all 0.5s ease-out 0s; -o-transition: all 0.5s ease-out 0s; }
+.car-item-2 .car-overlay-banner { background: rgba(21 ,81 ,161, 0.7); position: absolute; top: -100%; height: 100%; width: 100%; opacity: 0; transition: all 0.5s ease-out 0s; -webkit-transition: all 0.5s ease-out 0s; -moz-transition: all 0.5s ease-out 0s; -ms-transition: all 0.5s ease-out 0s; -o-transition: all 0.5s ease-out 0s; }
 .car-item-2 .car-overlay-banner ul { text-align: center; left: 0; position: absolute; right: 0; top: 50%; transform: translateY(-50%); -webkit-transform: translateY(-50%); -o-transform: translateY(-50%); -ms-transform: translateY(-50%); -moz-transform: translateY(-50%); z-index: 99; }
 .car-item-2 .car-overlay-banner ul li { display: inline-block; text-align: center; }
 .car-item-2 .car-overlay-banner ul li a { background: transparent; border: 2px solid #ffffff; color: #ffffff; width: 36px; height: 36px; line-height: 36px; text-align: center; display: inline-block; border-radius: 50%; }
